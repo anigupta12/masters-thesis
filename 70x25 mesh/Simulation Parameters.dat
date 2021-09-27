@@ -1,0 +1,16 @@
+Evolution Type- 
+All particles are active with v0 from t=0;
+
+Timestep	0.0001
+mu1	15
+mu2	1
+zeta	5
+k	3
+v0	5
+v0 at Boundary	7.5
+Threshold v0 (if used)	0.1
+ConfinementForce	3
+Spring Stiffness when extended	5.5
+Spring Stiffness when compressed	15
+Noise strength of position	0
+Noise strength of polarization	0
